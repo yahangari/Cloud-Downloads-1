@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7756",
+  "folder": "YouTube__watch_20260522175554_a56c05",
+  "base_name": "The_Weeknd_ft_Dua_Lipa_-_Let_Me_With_You_(ft_Eilish_Sounds)_tMYVdWCGlZY_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/yahangari/Cloud-Downloads-1/releases/tag/co-releases-v1-7756",
+  "files": [
+    {
+      "name": "The_Weeknd_ft_Dua_Lipa_-_Let_Me_With_You_.ft_Eilish_Sounds._tMYVdWCGlZY_1080p.mp4",
+      "url": "https://github.com/yahangari/Cloud-Downloads-1/releases/download/co-releases-v1-7756/The_Weeknd_ft_Dua_Lipa_-_Let_Me_With_You_.ft_Eilish_Sounds._tMYVdWCGlZY_1080p.mp4",
+      "api_url": "https://api.github.com/repos/yahangari/Cloud-Downloads-1/releases/assets/427266946",
+      "id": 427266946,
+      "size": 67384941,
+      "download_count": 0
+    }
+  ]
+}
